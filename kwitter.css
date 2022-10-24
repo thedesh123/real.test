@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+
+h3 {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#earthPIC {
+    width: 400px;
+    margin-left: 10%;
+    margin-bottom: 20%;
+}
